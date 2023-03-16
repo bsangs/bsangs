@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/bsangs)](https://github.com/bsangs)
 
 <!--
 **bsangs/bsangs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
